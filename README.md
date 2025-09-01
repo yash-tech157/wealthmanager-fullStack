@@ -46,5 +46,9 @@ This project is built using a modern full-stack JavaScript (Node.js) ecosystem:
 
 ---
 
+https://github.com/user-attachments/assets/7a09ca44-60e0-466b-8be6-310034938b46
+
+
+
 
 The repository is organized into two main parts: `backend` and `frontend`.
